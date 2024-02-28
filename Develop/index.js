@@ -45,8 +45,8 @@ const questions = [
         message:"What is the separator?",
     },
     {
-        type:"list",
-        name:"prompt types",
+        type:"input",
+        name:"prompt",
         message:"Describe the prompt types?"
     },
     {
